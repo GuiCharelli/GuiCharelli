@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/charelliguilherme?igsh=Yzk0dDZ0YzhsdzUz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="📧 [guilhermecharelli@gmail.com](mailto:guilhermecharelli@gmail.com)" target="_blank">
+  <a href="[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=guilhermecharelli@gmail.com)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
